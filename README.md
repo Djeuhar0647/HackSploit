@@ -2,7 +2,6 @@
 
     HackSploit is a joke application written in Python that creates a fake hacking of social networks
     
-    
     HackSploit - это приложение-шутка, написанное на Python, которое создает фальшивый взлом социальных сетей
 
 # Eng
