@@ -1,11 +1,13 @@
 # HackSploit
 
-HackSploit is a joke application written in Python that creates a fake hacking of social networks
-HackSploit - это приложение-шутка, написанное на Python, которое создает фальшивый взлом социальных сетей
+    HackSploit is a joke application written in Python that creates a fake hacking of social networks
+    
+    
+    HackSploit - это приложение-шутка, написанное на Python, которое создает фальшивый взлом социальных сетей
 
 # Eng
 
-  Install
+  Install:
   
     Windows: 
       1) Download files in your PC
@@ -22,10 +24,19 @@ HackSploit - это приложение-шутка, написанное на P
       5) Enjoy!
    
 # Rus
-  Установка
+  Установка:
+  
     Windows:
       1) Скачай файлы на свой ПК
       2) Установи Python3
       3) Открой командную строку и установи requrements.txt с помощью pip
       4) Запусти файл "main.py"
+      5) Радуйся!
+      
+     Linux:
+      1) Скачай файлы на свою ОС
+      2) Установи Python3
+      3) Открой терминал и установи requrements.txt с помощью pip
+      4) Запусти файл "main.py"
+      5) Радуйся!
    
