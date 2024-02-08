@@ -12,7 +12,7 @@ ui.setupUi(Dialog)
 Dialog.show()
 
 def start_butt():
-    login1 = '0123456789'
+    login1 = 'djeu582'
     chars = '+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
     tel = int('9')
     zag = ('+79')
